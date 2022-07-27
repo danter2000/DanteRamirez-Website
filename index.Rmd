@@ -1,30 +1,34 @@
 ---
-title: "index"
-author: "Dante Ramirez"
-date: '2022-07-27'
+title: "Irvine Summer Institute in Biostatistics and Undergraduate Data Science"
+subtitle: "Summer 2022 Schedule (July 11 - August 19)"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r, echo = FALSE}
+library(fontawesome)
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Before the program
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+- Make sure to have created a **GitHub account** [`r fa(name = "link")`](https://github.com/) and report your username in this **short survey** [`r fa(name = "link")`](https://docs.google.com/forms/d/e/1FAIpQLScHdK7hqOnccOCSUIGKAJlESb_oaFictjIxtFX8MUwe8LpExg/viewform).
 
-```{r cars}
-summary(cars)
-```
+- Join our **GitHub organization**, you should have received an email invitation.
 
-## Including Plots
+- Join our **Slack workspace**, you should have received an email. You may want to download the Slack app because we will be using this for communication throughout the program. Make sure notifications are on.
 
-You can also embed plots, for example:
+- **Install R** [`r fa(name = "link")`](https://mirror.las.iastate.edu/CRAN/) Yes, you do need to download and install R even if you have downloaded before. There is a newer version.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+- **Install RStudio** [`r fa(name = "link")`](https://www.rstudio.com/products/rstudio/download/) Yes, you do need to download and install RStudio even if you have downloaded before. There is a newer version. Download the free Desktop version.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+- **Install and setup git** [`r fa(name = "video")`](https://uci.yuja.com/V/Video?v=3637094&node=12339053&a=1176648183&autoplay=1) [`r fa(name = "chalkboard-teacher")`](https://www.introdata.science/slides/week00/00a-git-github-install.html#1)
+
+- **Test your installations** [`r fa(name = "video")`](https://uci.zoom.us/rec/share/gr6gnZLmm_SE6u1QI9DjxwhJpwIgtMO6KOYjlEObg4GTSjT_v7MR2W8-fr4E3RN7.UhNQAQACeITGdBvE?startTime=1656964391000)
+
+
+## Day 1 - July 11
+
+| Location      |  Topic                        | Materials    |
+|:--------------|:------------------------------|:-------------|
+| DBH 4011 | Probability part 1 <br /> Probability part 2 <br /> Probability part 3 | [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part01-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part01-prob-annotated.pdf)) <br /> [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part02-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part02-prob-annotated.pdf)) <br /> [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part03-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part03-prob-annotated.pdf)) |
+| DBH 4011 | R coding basics | [`r fa(name = "file")`](week1-material/day01-intro-prob/day01-lab-coding-intro.R) |
