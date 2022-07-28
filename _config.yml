@@ -1,16 +1,1 @@
-name: "personal-website-Dante-Ramirez"
-title: "My Website"
-output_dir: "docs"
-repository_url: https://github.com/danter2000/DanteRamirez-Website#danteramirez-website
-navbar:
-  source_url: true
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "CV"
-      href: 
-    - text: "Teaching"
-      href: 
-    - text: "Research"
-      href: 
-output: "."
+theme: jekyll-theme-tactile
