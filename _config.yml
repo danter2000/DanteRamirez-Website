@@ -1,7 +1,7 @@
-name: "personal-website-catalina-medina"
+name: "personal-website-Dante-Ramirez"
 title: "My Website"
 output_dir: "docs"
-repository_url: https://github.com/CatalinaMedina/CatalinaMedina.github.io
+repository_url: https://github.com/danter2000/DanteRamirez-Website#danteramirez-website
 navbar:
   source_url: true
   right:
@@ -13,5 +13,4 @@ navbar:
       href: 
     - text: "Research"
       href: 
-output: 
-  distill::distill_article
+output: "."
