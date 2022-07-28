@@ -1,6 +1,7 @@
 ---
 title: "Irvine Summer Institute in Biostatistics and Undergraduate Data Science"
 subtitle: "Summer 2022 Schedule (July 11 - August 19)"
+layout: default
 output: html_document
 ---
 
@@ -8,27 +9,122 @@ output: html_document
 library(fontawesome)
 ```
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-## Before the program
+[Link to another page](./another-page.html).
 
-- Make sure to have created a **GitHub account** [`r fa(name = "link")`](https://github.com/) and report your username in this **short survey** [`r fa(name = "link")`](https://docs.google.com/forms/d/e/1FAIpQLScHdK7hqOnccOCSUIGKAJlESb_oaFictjIxtFX8MUwe8LpExg/viewform).
+There should be whitespace between paragraphs.
 
-- Join our **GitHub organization**, you should have received an email invitation.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-- Join our **Slack workspace**, you should have received an email. You may want to download the Slack app because we will be using this for communication throughout the program. Make sure notifications are on.
+# Header 1
 
-- **Install R** [`r fa(name = "link")`](https://mirror.las.iastate.edu/CRAN/) Yes, you do need to download and install R even if you have downloaded before. There is a newer version.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-- **Install RStudio** [`r fa(name = "link")`](https://www.rstudio.com/products/rstudio/download/) Yes, you do need to download and install RStudio even if you have downloaded before. There is a newer version. Download the free Desktop version.
+## Header 2
 
-- **Install and setup git** [`r fa(name = "video")`](https://uci.yuja.com/V/Video?v=3637094&node=12339053&a=1176648183&autoplay=1) [`r fa(name = "chalkboard-teacher")`](https://www.introdata.science/slides/week00/00a-git-github-install.html#1)
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-- **Test your installations** [`r fa(name = "video")`](https://uci.zoom.us/rec/share/gr6gnZLmm_SE6u1QI9DjxwhJpwIgtMO6KOYjlEObg4GTSjT_v7MR2W8-fr4E3RN7.UhNQAQACeITGdBvE?startTime=1656964391000)
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-## Day 1 - July 11
+### Definition lists can be used with HTML syntax.
 
-| Location      |  Topic                        | Materials    |
-|:--------------|:------------------------------|:-------------|
-| DBH 4011 | Probability part 1 <br /> Probability part 2 <br /> Probability part 3 | [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part01-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part01-prob-annotated.pdf)) <br /> [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part02-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part02-prob-annotated.pdf)) <br /> [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part03-prob.pdf) (*annotated slides*: [`r fa(name = "desktop")`](week1-material/day01-intro-prob/day01-slides-part03-prob-annotated.pdf)) |
-| DBH 4011 | R coding basics | [`r fa(name = "file")`](week1-material/day01-intro-prob/day01-lab-coding-intro.R) |
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
