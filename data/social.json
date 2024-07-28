@@ -1,0 +1,17 @@
+[
+    {
+        "name": "GitHub",
+        "link": "https://github.com/danter2000",
+        "html_class": "github"
+    },
+    {
+        "name": "Email",
+        "link": "/contact/",
+        "html_class": "mail"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/danter2000/",
+        "html_class": "linkedin"
+    }
+]

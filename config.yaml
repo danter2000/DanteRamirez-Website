@@ -1,0 +1,82 @@
+baseURL: /
+languageCode: en
+title: 'Dante Ramirez : Data Science & Analytics'
+subtitle: 'subtitle'
+theme: hugo-theme-ava
+paginate: 7
+mainSections: post
+outputs:
+  home:
+    - HTML
+    - humanstxt
+languages:
+  en:
+    canonifyURLs: yes
+    enableEmoji: yes
+    enableRobotsTXT: yes
+    languageName: English
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.87.0
+params:
+  defaultImage: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/main/Logo_Website_Temp.png
+  disqus: xxxxxxx
+  ga_id: ''
+  humans_txt:
+    dev_github: ''
+    dev_team: ''
+    other_notes: ''
+    software: ''
+    standards: ''
+    thanks: ''
+  mainSections: post
+  meta_tags:
+    meta_description: Ava is a light theme for your blog with essential features you
+      might dig in.
+    meta_og_description: Ava is a light theme for your blog with essential features
+      you might dig in.
+    meta_og_image: https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg
+    meta_og_sitename: Hugo Ava Theme
+    meta_og_title: Hugo Ava Theme
+    meta_og_type: website
+    meta_og_url: https://jmau111.github.io/hugo-theme-ava-demo
+    meta_twitter_card: summary
+    meta_twitter_creator: '@gohugoio'
+    meta_twitter_site: '@gohugoio'
+markup:
+  blackFriday:
+    angledQuotes: yes
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    lineNos: no
+    noClasses: no
+    pygmentsCodefences: yes
+    pygmentsUseClasses: yes
+    tabWidth: 4
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Portfolio
+      url: /posts/
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+permalinks:
+  pages: /:filename/
+  posts: /:year/:month/:day/:slug/
+outputFormats:
+  humanstxt:
+    baseName: humans
+    isPlainText: yes
+    mediaType: text/plain
