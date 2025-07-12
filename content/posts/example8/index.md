@@ -4,7 +4,7 @@ description: This is desc 8
 draft: false
 image: images/shinjuku.jpg
 title: Example 8
-type: post
+type: pdf
 ---
 
 > Non, rien de rien  
