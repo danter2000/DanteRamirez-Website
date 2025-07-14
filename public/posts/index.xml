@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Dante Ramirez : Data Science &amp; Analytics</title>
-    <link>//localhost:4321/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Portfolio on Dante Ramirez : Data Science &amp; Analytics</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2023 11:11:11 +0100</lastBuildDate>
-    <atom:link href="//localhost:4321/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example 8</title>
-      <link>//localhost:4321/2023/01/05/example-8/</link>
+      <link>/2023/01/05/example-8/</link>
       <pubDate>Thu, 05 Jan 2023 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2023/01/05/example-8/</guid>
+      <guid>/2023/01/05/example-8/</guid>
       <description>Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;Mambo n°5</description>
     </item>
     <item>
       <title>Example 7</title>
-      <link>//localhost:4321/2021/08/07/example-7/</link>
+      <link>/2021/08/07/example-7/</link>
       <pubDate>Sat, 07 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/07/example-7/</guid>
+      <guid>/2021/08/07/example-7/</guid>
       <description>Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;Non, rien de rien&#xA;Non, je ne regrette rien&#xA;C&amp;rsquo;est payé, balayé, oublié&#xA;Je me fous du passé !</description>
     </item>
     <item>
       <title>Example 6</title>
-      <link>//localhost:4321/2021/08/06/example-6/</link>
+      <link>/2021/08/06/example-6/</link>
       <pubDate>Fri, 06 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/06/example-6/</guid>
+      <guid>/2021/08/06/example-6/</guid>
       <description> Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;first second third </description>
     </item>
     <item>
       <title>Example 5</title>
-      <link>//localhost:4321/2021/08/05/example-5/</link>
+      <link>/2021/08/05/example-5/</link>
       <pubDate>Thu, 05 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/05/example-5/</guid>
+      <guid>/2021/08/05/example-5/</guid>
       <description>First Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;2nd Non, rien de rien&#xA;Non, je ne regrette rien&#xA;C&amp;rsquo;est payé, balayé, oublié&#xA;Je me fous du passé !</description>
     </item>
     <item>
       <title>Example 4</title>
-      <link>//localhost:4321/2021/08/04/example-4/</link>
+      <link>/2021/08/04/example-4/</link>
       <pubDate>Wed, 04 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/04/example-4/</guid>
+      <guid>/2021/08/04/example-4/</guid>
       <description>Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;Non, rien de rien&#xA;Non, je ne regrette rien&#xA;C&amp;rsquo;est payé, balayé, oublié&#xA;Je me fous du passé !</description>
     </item>
     <item>
       <title>Example 3</title>
-      <link>//localhost:4321/2021/08/03/example-3/</link>
+      <link>/2021/08/03/example-3/</link>
       <pubDate>Tue, 03 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/03/example-3/</guid>
+      <guid>/2021/08/03/example-3/</guid>
       <description>factorial n = go n 1 where go n res | n &amp;gt; 1 = go (n - 1) (res * n) | otherwise = res </description>
     </item>
     <item>
       <title>Example 2</title>
-      <link>//localhost:4321/2021/08/02/example-2/</link>
+      <link>/2021/08/02/example-2/</link>
       <pubDate>Mon, 02 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/02/example-2/</guid>
+      <guid>/2021/08/02/example-2/</guid>
       <description> Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;first second third </description>
     </item>
     <item>
       <title>Example</title>
-      <link>//localhost:4321/2021/08/01/example/</link>
+      <link>/2021/08/01/example/</link>
       <pubDate>Sun, 01 Aug 2021 11:11:11 +0100</pubDate>
-      <guid>//localhost:4321/2021/08/01/example/</guid>
+      <guid>/2021/08/01/example/</guid>
       <description>Non, rien de rien&#xA;Non, je ne regrette rien&#xA;Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait&#xA;Ni le mal, tout ça m&amp;rsquo;est bien égal !&#xA;Non, rien de rien&#xA;Non, je ne regrette rien&#xA;C&amp;rsquo;est payé, balayé, oublié&#xA;Je me fous du passé !</description>
     </item>
     <item>
       <title>Hello R Markdown</title>
-      <link>//localhost:4321/2020/12/01/hello-r-markdown/</link>
+      <link>/2020/12/01/hello-r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>//localhost:4321/2020/12/01/hello-r-markdown/</guid>
+      <guid>/2020/12/01/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
   </channel>

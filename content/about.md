@@ -1,8 +1,8 @@
 ---
-date: "2021-08-01T11:11:11+01:00"
+title: "About"
 description: This is the about page.
-title: About
-image: https://upload.wikimedia.org/wikipedia/commons/1/18/Dog_Breeds.jpg
+date: "2021-08-01T11:11:11+01:00"
+image: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/7269289c22e854928b146b9800c255af2296eddf/assets/images/svgs/AboutPNG.png
 ---
 
 > Hello! My name is Dante Ramirez, and I'm a (bio)statistician, data scientist,

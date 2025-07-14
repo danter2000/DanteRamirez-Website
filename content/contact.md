@@ -1,8 +1,8 @@
 ---
-date: "2021-08-15T11:11:11+01:00"
+title: "Contact"
 description: This is the contact page.
-title: Contact
-image: https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg
+date: "2021-08-15T11:11:11+01:00"
+image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg"
 ---
 
 Please reach out with any questions or inquiries
