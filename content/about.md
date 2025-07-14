@@ -2,7 +2,7 @@
 title: "About"
 description: This is the about page.
 date: "2021-08-01T11:11:11+01:00"
-image: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/7269289c22e854928b146b9800c255af2296eddf/assets/images/svgs/AboutPNG.png
+image: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/refs/heads/master/assets/images/svgs/AboutPNG.png
 ---
 
 > Hello! My name is Dante Ramirez, and I'm a (bio)statistician, data scientist,
