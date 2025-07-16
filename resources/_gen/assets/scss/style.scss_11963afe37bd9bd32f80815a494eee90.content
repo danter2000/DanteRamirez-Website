@@ -895,7 +895,7 @@ pre {
   align-items: center;
   color: var(--color-subheader);
   background-color: var(--bg-color-subheader);
-  mix-blend-mode: luminosity;
+  mix-blend-mode: normal;
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
