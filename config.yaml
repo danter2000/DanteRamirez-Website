@@ -20,7 +20,7 @@ module:
     extended: yes
     min: 0.87.0
 params:
-  defaultImage: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/main/Logo_Website_Temp.png
+  defaultImage: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/refs/heads/master/assets/images/svgs/Home.png
   disqus: xxxxxxx
   ga_id: ''
   humans_txt:
