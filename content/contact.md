@@ -2,7 +2,7 @@
 title: "Contact"
 description: This is the contact page.
 date: "2021-08-15T11:11:11+01:00"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg"
+image: "https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/refs/heads/master/assets/images/svgs/ContactPNG.png"
 ---
 
 Please reach out with any questions or inquiries
