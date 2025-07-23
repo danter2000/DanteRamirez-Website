@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dante Ramirez : Data Science &amp; Analytics</title>
-    <link>https://SaguaroAnalytics.netlify.app/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Dante Ramirez : Data Science &amp; Analytics</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="https://SaguaroAnalytics.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plot</title>
-      <link>https://SaguaroAnalytics.netlify.app/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SaguaroAnalytics.netlify.app/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     <item>
       <title>R Markdown</title>
-      <link>https://SaguaroAnalytics.netlify.app/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SaguaroAnalytics.netlify.app/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression</title>
-      <link>https://SaguaroAnalytics.netlify.app/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://SaguaroAnalytics.netlify.app/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
   </channel>
