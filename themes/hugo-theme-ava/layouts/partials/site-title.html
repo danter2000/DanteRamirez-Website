@@ -1,1 +1,17 @@
-<a href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+{{ with site.Params.logo }}
+  {{ $logo := resources.Get .path }}
+  {{ if $logo }}
+    {{ $resized := $logo.Resize "450x" }}
+    <a href="{{ "/" | relLangURL }}">
+      <img src="{{ $resized.RelPermalink }}" alt="{{ .alt | default "Site logo" }}">
+    </a>
+  {{ else }}
+    <a href="{{ "/" | relLangURL }}">
+      {{ site.Title }}
+    </a>
+  {{ end }}
+{{ else }}
+  <a href="{{ "/" | relLangURL }}">
+    {{ site.Title }}
+  </a>
+{{ end }}

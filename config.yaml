@@ -20,6 +20,9 @@ module:
     extended: yes
     min: 0.87.0
 params:
+  logo:
+    path: "images/svgs/Logo_transparent.PNG"
+    alt: "My Site Logo"
   defaultImage: https://raw.githubusercontent.com/danter2000/DanteRamirez-Website/refs/heads/master/assets/images/svgs/Home.png
   disqus: xxxxxxx
   ga_id: ''
@@ -66,9 +69,9 @@ menu:
     - name: About
       url: /about/
       weight: 2
-    - name: Portfolio
-      url: /posts/
-      weight: 3
+    # - name: Portfolio
+    #   url: /posts/
+    #   weight: 3
     - name: Contact
       url: /contact/
       weight: 4
