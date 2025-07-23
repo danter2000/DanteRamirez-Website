@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: "https://SaguaroAnalytics.netlify.app/"
 languageCode: en
 title: 'Dante Ramirez : Data Science & Analytics'
 subtitle: 'subtitle'
